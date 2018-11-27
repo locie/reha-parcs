@@ -1,3 +1,7 @@
+---
+title: Bienvenue sur le site du projet Réha-Parcs
+---
+
 ## Page du projet Reha-Parcs
 
 Le projet [Reha-Parcs](http://www.agence-nationale-recherche.fr/Projet-ANR-15-CE22-0011) vise à développer des méthodes pour l'aide à la décision interactive pour les parcs de bâtiments. Ce projet a débuté en 2015 et est financé par l'ANR.
@@ -7,3 +11,4 @@ Les participants au projet sont [I2M](https://www.i2m.u-bordeaux.fr/) (Coordinat
 Ce dépôt est maintenu par le @[locie](https://github.com/locie) (@[srouchier](https://github.com/srouchier) et @[ymerlet](https://github.com/ymerlet))
 
 Ce site est en cours de construction.
+
