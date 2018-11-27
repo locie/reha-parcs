@@ -10,5 +10,7 @@ Les participants au projet sont [I2M](https://www.i2m.u-bordeaux.fr/) (Coordinat
 
 Ce dépôt est maintenu par le @[locie](https://github.com/locie) (@[srouchier](https://github.com/srouchier) et @[ymerlet](https://github.com/ymerlet))
 
+![LOCIE Logo](https://www.locie.univ-smb.fr/wp-content/uploads/2017/10/locie-logo-horiz.png \"LOCIE\")
+
 Ce site est en cours de construction.
 
