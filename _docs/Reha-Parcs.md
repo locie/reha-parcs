@@ -1,6 +1,6 @@
 ---
 title:Description du projet
-category:
+category:Projet Réha-Parcs
 order: 1
 ---
 En construction.
