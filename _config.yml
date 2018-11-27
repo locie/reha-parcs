@@ -10,7 +10,7 @@ show_full_navigation: true
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Product documentation template for Jekyll.
-author:@ymerlet
+author:ymerlet
   name:Yannis Merlet
   email:yannis.merlet@univ-smb.fr
   twitter: # twitter username without the @ symbol
