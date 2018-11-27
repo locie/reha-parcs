@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Page du projet Reha-Parcs
 
-You can use the [editor on GitHub](https://github.com/locie/reha-parcs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Le projet [Reha-Parcs](http://www.agence-nationale-recherche.fr/Projet-ANR-15-CE22-0011) vise à développer des méthodes pour l'aide à la décision interactive pour les parcs de bâtiments. Ce projet a débuté en 2015 et est financé par l'ANR.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Les participants au projet sont [I2M](https://www.i2m.u-bordeaux.fr/) (Coordinateur du projet), [ARMINES](https://www.armines.net/fr), le [CEA LITEN](http://liten.cea.fr/cea-tech/liten/Pages/Accueil.aspx), le [CSTB](http://www.cstb.fr/fr/), le bureau d'études [ITF](https://www.itf.biz/fr/) et le [LOCIE](https://www.locie.univ-smb.fr/)
 
-### Markdown
+Ce dépôt est maintenu par le @locie (@srouchier et @Ymerlet)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/locie/reha-parcs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ce site est en cours de construction.
