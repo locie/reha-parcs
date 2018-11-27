@@ -10,9 +10,15 @@ show_full_navigation: true
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Product documentation template for Jekyll.
+<<<<<<< HEAD
 author: ymerlet
   name: "Yannis Merlet"
   email: yannis.merlet@univ-smb.fr
+=======
+author:ymerlet
+  name:Yannis Merlet
+  email:yannis.merlet@univ-smb.fr
+>>>>>>> parent of c65a0d1... error correction again
   twitter: # twitter username without the @ symbol
 social:
   name: Reha-Parcs
