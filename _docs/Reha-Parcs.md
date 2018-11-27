@@ -1,5 +1,5 @@
 ---
-title:
+title:Description du projet
 category:
 order: 1
 ---
