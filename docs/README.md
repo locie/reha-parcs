@@ -4,6 +4,6 @@ Le projet [Reha-Parcs](http://www.agence-nationale-recherche.fr/Projet-ANR-15-CE
 
 Les participants au projet sont [I2M](https://www.i2m.u-bordeaux.fr/) (Coordinateur du projet), [ARMINES](https://www.armines.net/fr), le [CEA LITEN](http://liten.cea.fr/cea-tech/liten/Pages/Accueil.aspx), le [CSTB](http://www.cstb.fr/fr/), le bureau d'études [ITF](https://www.itf.biz/fr/) et le [LOCIE](https://www.locie.univ-smb.fr/)
 
-Ce dépôt est maintenu par le @locie (@srouchier et @Ymerlet)
+Ce dépôt est maintenu par le @[locie](https://github.com/locie) (@[srouchier](https://github.com/srouchier) et @[ymerlet](https://github.com/ymerlet))
 
 Ce site est en cours de construction.
