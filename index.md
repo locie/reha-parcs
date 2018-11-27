@@ -1,5 +1,5 @@
 ---
-title: Bienvenue sur le site du projet Réha-Parcs
+title: Projet Réha-Parcs
 ---
 
 ## Page du projet Reha-Parcs
