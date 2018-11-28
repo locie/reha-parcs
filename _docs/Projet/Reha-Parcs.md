@@ -12,7 +12,7 @@ Les parcs de bâtiment visés par le projet ont les caractéristiques suivantes:
 * Le nombre de bâtiments est classiquement compris entre 10 et 150 bâtiments
 
 Le projet est constitué de 5 tâches:
-![Description du projet Reha-Parcs](./images/project.png)
+![Description du projet Reha-Parcs](../images/project.png)
 
 ## Tâche 1:
 La tâche 1 consiste à poser le problème d'optimisation multiobjectif: ses entrées, ses paramètres et ses sorties. Elle délimite aussi l'étendue de l'espace de décision correspondant aux travaux possibles sur le parc de bâtiment.
