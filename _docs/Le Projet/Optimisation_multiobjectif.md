@@ -1,6 +1,6 @@
 ---
-title:Tache3
-category:Projet Reha-Parcs
+title: Tache3
+category: "Le Projet"
 order: 2
 ---
 
