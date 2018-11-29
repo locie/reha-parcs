@@ -1,6 +1,6 @@
 ---
 title: Contact
-category: Contact
+category: "Le Projet"
 order: 8
 ---
 
