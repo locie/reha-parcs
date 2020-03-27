@@ -25,8 +25,8 @@ TEMPORALITY = True # False if no sequencing nor phasing
 
 PHASED_NOT_SEQUENCED = True # True if phased, False if sequenced, useless if TEMPORALITY = False
 
-IDDPATH = "/home/yannis/EnergyPlus-8-6-0/Energy+.idd"
-EPLUSPATH = "/home/yannis/EnergyPlus-8-6-0/"
+IDDPATH = "/usr/local/EnergyPlus-8-6-0/Energy+.idd"
+EPLUSPATH = "/usr/local/EnergyPlus-8-6-0/"
 
 NGEN = 100
 IND = 96

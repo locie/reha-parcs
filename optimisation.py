@@ -457,8 +457,8 @@ if __name__ == "__main__":
 
 
     #   Multiprocessing pool
-    pool = multiprocessing.Pool()
-    toolbox.register("map", pool.map)
+#    pool = multiprocessing.Pool()
+#    toolbox.register("map", pool.map)
 
     logger.debug("optimizing")
     indiv, statslog, optimal_front, graph_data, allindiv = main()
