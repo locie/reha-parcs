@@ -1,0 +1,31 @@
+
+!- WINDOWS USED IN MULTIOBJECTIVE OPTIMIZATION
+WindowMaterial:SimpleGlazingSystem,
+  Window8 , !- Name
+   0.8, !-  U-Factor
+  0.763 , !-  Solar Heat Gain Coefficient
+  0.812 ; !-  Visible Transmittance
+
+WindowMaterial:SimpleGlazingSystem,
+  Window10 , !- Name
+   1.0, !-  U-Factor
+  0.730 , !-  Solar Heat Gain Coefficient
+  0.830 ; !-  Visible Transmittance
+
+WindowMaterial:SimpleGlazingSystem,
+  Window12 , !- Name
+   1.2, !-  U-Factor
+  0.670 , !-  Solar Heat Gain Coefficient
+  0.860 ; !-  Visible Transmittance
+
+WindowMaterial:SimpleGlazingSystem,
+  Window14 , !- Name
+   1.4, !-  U-Factor
+  0.640 , !-  Solar Heat Gain Coefficient
+  0.880 ; !-  Visible Transmittance
+
+WindowMaterial:SimpleGlazingSystem,
+  Window20 , !- Name
+   2.0, !-  U-Factor
+  0.610 , !-  Solar Heat Gain Coefficient
+  0.900 ; !-  Visible Transmittance

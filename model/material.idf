@@ -1,0 +1,475 @@
+
+!- MATERIALS FOR CONSTRUCTIONS USED IN MULTIOBJECTIVE OPTIMIZATION
+Material,
+    Glasswool2,    !- Name
+    Rough,                    !- Roughness
+    0.02,                      !- Thickness
+    0.04,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Glasswool4,    !- Name
+    Rough,                    !- Roughness
+    0.04,                      !- Thickness
+    0.04,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Glasswool6,    !- Name
+    Rough,                    !- Roughness
+    0.06,                      !- Thickness
+    0.04,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Glasswool8,    !- Name
+    Rough,                    !- Roughness
+    0.08,                      !- Thickness
+    0.04,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Glasswool10,    !- Name
+    Rough,                    !- Roughness
+    0.1,                      !- Thickness
+    0.04,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Glasswool12,    !- Name
+    Rough,                    !- Roughness
+    0.12,                      !- Thickness
+    0.04,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Glasswool14,    !- Name
+    Rough,                    !- Roughness
+    0.14,                      !- Thickness
+    0.04,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Glasswool16,    !- Name
+    Rough,                    !- Roughness
+    0.16,                      !- Thickness
+    0.04,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Glasswool18,    !- Name
+    Rough,                    !- Roughness
+    0.18,                      !- Thickness
+    0.04,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Glasswool20,    !- Name
+    Rough,                    !- Roughness
+    0.2,                      !- Thickness
+    0.04,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Rockwool2,    !- Name
+    Rough,                    !- Roughness
+    0.02,                      !- Thickness
+    0.042,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Rockwool4,    !- Name
+    Rough,                    !- Roughness
+    0.04,                      !- Thickness
+    0.042,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Rockwool6,    !- Name
+    Rough,                    !- Roughness
+    0.06,                      !- Thickness
+    0.042,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Rockwool8,    !- Name
+    Rough,                    !- Roughness
+    0.08,                      !- Thickness
+    0.042,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Rockwool10,    !- Name
+    Rough,                    !- Roughness
+    0.1,                      !- Thickness
+    0.042,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Rockwool12,    !- Name
+    Rough,                    !- Roughness
+    0.12,                      !- Thickness
+    0.042,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Rockwool14,    !- Name
+    Rough,                    !- Roughness
+    0.14,                      !- Thickness
+    0.042,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Rockwool16,    !- Name
+    Rough,                    !- Roughness
+    0.16,                      !- Thickness
+    0.042,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Rockwool18,    !- Name
+    Rough,                    !- Roughness
+    0.18,                      !- Thickness
+    0.042,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Rockwool20,    !- Name
+    Rough,                    !- Roughness
+    0.2,                      !- Thickness
+    0.042,                     !- Conductivity
+    12.0,                     !- Density
+    840.0,                    !- Specific Heat
+    0.9,                      !- Thermal Absorptance
+    0.6,                      !- Solar Absorptance
+    0.6;                      !- Visible Absorptance
+
+Material,
+    Polystyrene2,    !- Name
+    Rough,                    !- Roughness
+    0.02,                      !- Thickness
+    0.032,                     !- Conductivity
+    35.0,                     !- Density
+    1450.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polystyrene4,    !- Name
+    Rough,                    !- Roughness
+    0.04,                      !- Thickness
+    0.032,                     !- Conductivity
+    35.0,                     !- Density
+    1450.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polystyrene6,    !- Name
+    Rough,                    !- Roughness
+    0.06,                      !- Thickness
+    0.032,                     !- Conductivity
+    35.0,                     !- Density
+    1450.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polystyrene8,    !- Name
+    Rough,                    !- Roughness
+    0.08,                      !- Thickness
+    0.032,                     !- Conductivity
+    35.0,                     !- Density
+    1450.0,                    !- Specific Heat
+    0.85,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polystyrene10,    !- Name
+    Rough,                    !- Roughness
+    0.1,                      !- Thickness
+    0.032,                     !- Conductivity
+    35.0,                     !- Density
+    1450.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polystyrene12,    !- Name
+    Rough,                    !- Roughness
+    0.12,                      !- Thickness
+    0.032,                     !- Conductivity
+    35.0,                     !- Density
+    1450.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polystyrene14,    !- Name
+    Rough,                    !- Roughness
+    0.14,                      !- Thickness
+    0.032,                     !- Conductivity
+    35.0,                     !- Density
+    1450.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polystyrene16,    !- Name
+    Rough,                    !- Roughness
+    0.16,                      !- Thickness
+    0.032,                     !- Conductivity
+    35.0,                     !- Density
+    1450.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polystyrene18,    !- Name
+    Rough,                    !- Roughness
+    0.18,                      !- Thickness
+    0.032,                     !- Conductivity
+    35.0,                     !- Density
+    1450.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polystyrene20,    !- Name
+    Rough,                    !- Roughness
+    0.2,                      !- Thickness
+    0.032,                     !- Conductivity
+    35.0,                     !- Density
+    1450.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polyurethane2,    !- Name
+    Rough,                    !- Roughness
+    0.02,                      !- Thickness
+    0.03,                     !- Conductivity
+    40.0,                     !- Density
+    1400.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polyurethane4,    !- Name
+    Rough,                    !- Roughness
+    0.04,                      !- Thickness
+    0.03,                     !- Conductivity
+    40.0,                     !- Density
+    1400.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polyurethane6,    !- Name
+    Rough,                    !- Roughness
+    0.06,                      !- Thickness
+    0.03,                     !- Conductivity
+    40.0,                     !- Density
+    1400.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polyurethane8,    !- Name
+    Rough,                    !- Roughness
+    0.08,                      !- Thickness
+    0.03,                     !- Conductivity
+    40.0,                     !- Density
+    1400.0,                    !- Specific Heat
+    0.85,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polyurethane10,    !- Name
+    Rough,                    !- Roughness
+    0.1,                      !- Thickness
+    0.03,                     !- Conductivity
+    40.0,                     !- Density
+    1400.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polyurethane12,    !- Name
+    Rough,                    !- Roughness
+    0.12,                      !- Thickness
+    0.03,                     !- Conductivity
+    40.0,                     !- Density
+    1400.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polyurethane14,    !- Name
+    Rough,                    !- Roughness
+    0.14,                      !- Thickness
+    0.03,                     !- Conductivity
+    40.0,                     !- Density
+    1400.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polyurethane16,    !- Name
+    Rough,                    !- Roughness
+    0.16,                      !- Thickness
+    0.03,                     !- Conductivity
+    40.0,                     !- Density
+    1400.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polyurethane18,    !- Name
+    Rough,                    !- Roughness
+    0.18,                      !- Thickness
+    0.03,                     !- Conductivity
+    40.0,                     !- Density
+    1400.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+Material,
+    Polyurethane20,    !- Name
+    Rough,                    !- Roughness
+    0.2,                      !- Thickness
+    0.03,                     !- Conductivity
+    40.0,                     !- Density
+    1400.0,                    !- Specific Heat
+    0.8,                      !- Thermal Absorptance
+    0.55,                      !- Solar Absorptance
+    0.55;                      !- Visible Absorptance
+
+
+
+!- WINDOWS USED IN MULTIOBJECTIVE OPTIMIZATION
+
+WindowMaterial:SimpleGlazingSystem,
+  Window08 , !- Name
+   0.8, !-  U-Factor
+  0.763 , !-  Solar Heat Gain Coefficient
+  0.812 ; !-  Visible Transmittance
+
+WindowMaterial:SimpleGlazingSystem,
+  Window10 , !- Name
+   1.0, !-  U-Factor
+  0.730 , !-  Solar Heat Gain Coefficient
+  0.830 ; !-  Visible Transmittance
+
+WindowMaterial:SimpleGlazingSystem,
+  Window12 , !- Name
+   1.2, !-  U-Factor
+  0.670 , !-  Solar Heat Gain Coefficient
+  0.860 ; !-  Visible Transmittance
+
+WindowMaterial:SimpleGlazingSystem,
+  Window14 , !- Name
+   1.4, !-  U-Factor
+  0.640 , !-  Solar Heat Gain Coefficient
+  0.880 ; !-  Visible Transmittance
+
+WindowMaterial:SimpleGlazingSystem,
+  Window20 , !- Name
+   2.0, !-  U-Factor
+  0.610 , !-  Solar Heat Gain Coefficient
+  0.900 ; !-  Visible Transmittance
